@@ -8,12 +8,10 @@ It solved the Grocer's requirements of:
   
   
 What did you do particularly well?
-
 Successfully completing each task that was required of the program to function.
 
 
 Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
-
 Adding more comments and labels to better follow best practices.
 
 
