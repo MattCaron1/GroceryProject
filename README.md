@@ -8,12 +8,13 @@ It solved the Grocer's requirements of:
   
   
 What did you do particularly well?
+
 Successfully completing each task that was required of the program to function.
 
 
 Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
-Adding more comments and labels to better follow best practices.
 
+Adding more comments and labels to better follow best practices.
 
 
 Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
@@ -21,11 +22,9 @@ Which pieces of the code did you find most challenging to write, and how did you
 The most difficult was getting the Python and C++ to communicate with each other. Youtube videos and other walkthroughs that helped me better understand the process. 
 
 
-
 What skills from this project will be particularly transferable to other projects or course work?
 
 Definately using different languages and understanding each language's strengths and weaknesses so that I can better combine them in the future to make more effecient programs.
-
 
 
 How did you make this program maintainable, readable, and adaptable?
